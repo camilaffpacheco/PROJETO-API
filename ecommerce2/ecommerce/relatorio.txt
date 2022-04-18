@@ -1,0 +1,1 @@
+cadastar promoção ainda não estava funcionando, passado pra camilla fazer ajustes e inserir no banco as informações da tela de cadastro de promoção progressivo, SELEÇÃO DE PROMOÇÃO - apenas na nav bar inicial.
